@@ -70,7 +70,13 @@ echo -e "BC=$BC"
 deltaSeed=$(echo "scale=0; (${20})/1" | bc)
 echo -e "deltaSeed=$deltaSeed"
 
-sorting_Path="/home/aronton/tSDRG_project/Sorting_data/Spin${Spin}/submit_record/"
+Jminus=${21}
+
+Dminus=${22}
+
+tSDRG_path=${23}
+
+sorting_Path="${tSDRG_path}/Sorting_data/Spin${Spin}/submit_record/"
 
 now_date="$(date +'%Y_%m_%d')/"
 

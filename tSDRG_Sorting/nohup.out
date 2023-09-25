@@ -1,0 +1,960 @@
+orderparameter         ==> ZL
+partition         ==> 1
+Ncore         ==> 1
+Spin         ==> 15
+ProbDis        ==> 10
+bonDim        ==> 40
+L1        ==> 64
+L2        ==> 512
+space_L        ==> 64
+J1        ==> 0.5
+J2        ==> 0.5
+space_J        ==> 0
+D1        ==> 0.1
+D2        ==> 0.2
+space_D        ==> 0.01
+seed1        ==> 1
+seed2        ==> 2000
+Nseed :   ==> 2000
+BC :   ==> PBC
+delta seed :   ==> 1000
+Jminus :   ==> Y
+Dminus :   ==> Y
+tSDRG_path :   ==> /home/aronton/tSDRG_random
+partitio=1
+Ncore=1
+Spin=15
+P=
+bonDim=40
+L1=64
+L2=512
+space_L=64
+J1=.50
+J2=.50
+space_J=0
+D1=.10
+D2=.20
+space_D=.01
+seed1=1
+seed2=2000
+Nseed=2000
+BC=PBC
+deltaSeed=1000
+/home/aronton/tSDRG_random/Sorting_data/Spin15/submit_record/2023_09_25/
+/home/aronton/tSDRG_random/Sorting_data/Spin15/submit_record/2023_09_25/Orderparameter=ZL;P=;B=40;L=64_512(64);J=.50_.50(0);D=.10_.20(.01);seed1=1_seed2=2000;Partition=1;BC=PBC;Number_of_core=1
+ooooooooooL_L=64_oooooooooo
+xxxxxxxxxxxxxxx_Jdis050_xxxxxxxxxxxxxxx
+J:.50
+---------------Dim010---------------
+D:.10
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim010/L64_P10_m40_2000/ZL.csv
+
+seed=2000 is found
+
+./ZL/Zsub.sh /home/aronton/tSDRG_random/Sorting_data/Spin15/record/ZL/B40/Jdis050/Dim010/L64/ZL_spin15_L64_Jdis050_Dim010_seed1=1_seed2=2000.sh
+
+Submitted batch job 38159
+sbatch /home/aronton/tSDRG_random/Sorting_data/Spin15/record/ZL/B40/Jdis050/Dim010/L64/ZL_spin15_L64_Jdis050_Dim010_seed1=1_seed2=2000.sh 15 PBC 10 40 64 Jdis050 Dim010 1 2000
+
+---------------Dim011---------------
+D:.11
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim011/L64_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim011/L64_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim011/L64_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim011
+
+---------------Dim012---------------
+D:.12
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim012/L64_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim012/L64_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim012/L64_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim012
+
+---------------Dim013---------------
+D:.13
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim013/L64_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim013/L64_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim013/L64_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim013
+
+---------------Dim014---------------
+D:.14
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim014/L64_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim014/L64_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim014/L64_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim014
+
+---------------Dim015---------------
+D:.15
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim015/L64_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim015/L64_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim015/L64_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim015
+
+---------------Dim016---------------
+D:.16
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim016/L64_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim016/L64_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim016/L64_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim016
+
+---------------Dim017---------------
+D:.17
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim017/L64_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim017/L64_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim017/L64_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim017
+
+---------------Dim018---------------
+D:.18
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim018/L64_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim018/L64_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim018/L64_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim018
+
+---------------Dim019---------------
+D:.19
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim019/L64_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim019/L64_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim019/L64_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim019
+
+---------------Dim020---------------
+D:.20
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim020/L64_P10_m40_2000/ZL.csv
+
+seed=2000 is found
+
+./ZL/Zsub.sh /home/aronton/tSDRG_random/Sorting_data/Spin15/record/ZL/B40/Jdis050/Dim020/L64/ZL_spin15_L64_Jdis050_Dim020_seed1=1_seed2=2000.sh
+
+Submitted batch job 38160
+sbatch /home/aronton/tSDRG_random/Sorting_data/Spin15/record/ZL/B40/Jdis050/Dim020/L64/ZL_spin15_L64_Jdis050_Dim020_seed1=1_seed2=2000.sh 15 PBC 10 40 64 Jdis050 Dim020 1 2000
+
+ooooooooooL_L=128_oooooooooo
+xxxxxxxxxxxxxxx_Jdis050_xxxxxxxxxxxxxxx
+J:.50
+---------------Dim010---------------
+D:.10
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim010/L128_P10_m40_2000/ZL.csv
+
+seed=2000 is found
+
+./ZL/Zsub.sh /home/aronton/tSDRG_random/Sorting_data/Spin15/record/ZL/B40/Jdis050/Dim010/L128/ZL_spin15_L128_Jdis050_Dim010_seed1=1_seed2=2000.sh
+
+Submitted batch job 38161
+sbatch /home/aronton/tSDRG_random/Sorting_data/Spin15/record/ZL/B40/Jdis050/Dim010/L128/ZL_spin15_L128_Jdis050_Dim010_seed1=1_seed2=2000.sh 15 PBC 10 40 128 Jdis050 Dim010 1 2000
+
+---------------Dim011---------------
+D:.11
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim011/L128_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim011/L128_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim011/L128_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim011
+
+---------------Dim012---------------
+D:.12
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim012/L128_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim012/L128_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim012/L128_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim012
+
+---------------Dim013---------------
+D:.13
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim013/L128_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim013/L128_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim013/L128_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim013
+
+---------------Dim014---------------
+D:.14
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim014/L128_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim014/L128_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim014/L128_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim014
+
+---------------Dim015---------------
+D:.15
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim015/L128_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim015/L128_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim015/L128_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim015
+
+---------------Dim016---------------
+D:.16
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim016/L128_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim016/L128_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim016/L128_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim016
+
+---------------Dim017---------------
+D:.17
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim017/L128_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim017/L128_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim017/L128_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim017
+
+---------------Dim018---------------
+D:.18
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim018/L128_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim018/L128_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim018/L128_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim018
+
+---------------Dim019---------------
+D:.19
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim019/L128_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim019/L128_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim019/L128_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim019
+
+---------------Dim020---------------
+D:.20
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim020/L128_P10_m40_2000/ZL.csv
+
+seed=2000 is found
+
+./ZL/Zsub.sh /home/aronton/tSDRG_random/Sorting_data/Spin15/record/ZL/B40/Jdis050/Dim020/L128/ZL_spin15_L128_Jdis050_Dim020_seed1=1_seed2=2000.sh
+
+Submitted batch job 38162
+sbatch /home/aronton/tSDRG_random/Sorting_data/Spin15/record/ZL/B40/Jdis050/Dim020/L128/ZL_spin15_L128_Jdis050_Dim020_seed1=1_seed2=2000.sh 15 PBC 10 40 128 Jdis050 Dim020 1 2000
+
+ooooooooooL_L=192_oooooooooo
+xxxxxxxxxxxxxxx_Jdis050_xxxxxxxxxxxxxxx
+J:.50
+---------------Dim010---------------
+D:.10
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim010/L192_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim010/L192_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim010/L192_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim010
+
+---------------Dim011---------------
+D:.11
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim011/L192_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim011/L192_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim011/L192_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim011
+
+---------------Dim012---------------
+D:.12
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim012/L192_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim012/L192_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim012/L192_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim012
+
+---------------Dim013---------------
+D:.13
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim013/L192_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim013/L192_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim013/L192_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim013
+
+---------------Dim014---------------
+D:.14
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim014/L192_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim014/L192_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim014/L192_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim014
+
+---------------Dim015---------------
+D:.15
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim015/L192_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim015/L192_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim015/L192_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim015
+
+---------------Dim016---------------
+D:.16
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim016/L192_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim016/L192_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim016/L192_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim016
+
+---------------Dim017---------------
+D:.17
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim017/L192_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim017/L192_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim017/L192_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim017
+
+---------------Dim018---------------
+D:.18
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim018/L192_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim018/L192_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim018/L192_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim018
+
+---------------Dim019---------------
+D:.19
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim019/L192_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim019/L192_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim019/L192_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim019
+
+---------------Dim020---------------
+D:.20
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim020/L192_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim020/L192_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim020/L192_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim020
+
+ooooooooooL_L=256_oooooooooo
+xxxxxxxxxxxxxxx_Jdis050_xxxxxxxxxxxxxxx
+J:.50
+---------------Dim010---------------
+D:.10
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim010/L256_P10_m40_2000/ZL.csv
+
+seed=2000 is found
+
+./ZL/Zsub.sh /home/aronton/tSDRG_random/Sorting_data/Spin15/record/ZL/B40/Jdis050/Dim010/L256/ZL_spin15_L256_Jdis050_Dim010_seed1=1_seed2=2000.sh
+
+Submitted batch job 38163
+sbatch /home/aronton/tSDRG_random/Sorting_data/Spin15/record/ZL/B40/Jdis050/Dim010/L256/ZL_spin15_L256_Jdis050_Dim010_seed1=1_seed2=2000.sh 15 PBC 10 40 256 Jdis050 Dim010 1 2000
+
+---------------Dim011---------------
+D:.11
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim011/L256_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim011/L256_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim011/L256_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim011
+
+---------------Dim012---------------
+D:.12
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim012/L256_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim012/L256_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim012/L256_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim012
+
+---------------Dim013---------------
+D:.13
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim013/L256_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim013/L256_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim013/L256_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim013
+
+---------------Dim014---------------
+D:.14
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim014/L256_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim014/L256_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim014/L256_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim014
+
+---------------Dim015---------------
+D:.15
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim015/L256_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim015/L256_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim015/L256_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim015
+
+---------------Dim016---------------
+D:.16
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim016/L256_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim016/L256_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim016/L256_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim016
+
+---------------Dim017---------------
+D:.17
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim017/L256_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim017/L256_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim017/L256_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim017
+
+---------------Dim018---------------
+D:.18
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim018/L256_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim018/L256_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim018/L256_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim018
+
+---------------Dim019---------------
+D:.19
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim019/L256_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim019/L256_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim019/L256_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim019
+
+---------------Dim020---------------
+D:.20
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim020/L256_P10_m40_2000/ZL.csv
+
+seed=2000 is found
+
+./ZL/Zsub.sh /home/aronton/tSDRG_random/Sorting_data/Spin15/record/ZL/B40/Jdis050/Dim020/L256/ZL_spin15_L256_Jdis050_Dim020_seed1=1_seed2=2000.sh
+
+Submitted batch job 38164
+sbatch /home/aronton/tSDRG_random/Sorting_data/Spin15/record/ZL/B40/Jdis050/Dim020/L256/ZL_spin15_L256_Jdis050_Dim020_seed1=1_seed2=2000.sh 15 PBC 10 40 256 Jdis050 Dim020 1 2000
+
+ooooooooooL_L=320_oooooooooo
+xxxxxxxxxxxxxxx_Jdis050_xxxxxxxxxxxxxxx
+J:.50
+---------------Dim010---------------
+D:.10
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim010/L320_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim010/L320_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim010/L320_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim010
+
+---------------Dim011---------------
+D:.11
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim011/L320_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim011/L320_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim011/L320_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim011
+
+---------------Dim012---------------
+D:.12
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim012/L320_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim012/L320_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim012/L320_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim012
+
+---------------Dim013---------------
+D:.13
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim013/L320_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim013/L320_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim013/L320_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim013
+
+---------------Dim014---------------
+D:.14
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim014/L320_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim014/L320_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim014/L320_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim014
+
+---------------Dim015---------------
+D:.15
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim015/L320_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim015/L320_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim015/L320_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim015
+
+---------------Dim016---------------
+D:.16
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim016/L320_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim016/L320_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim016/L320_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim016
+
+---------------Dim017---------------
+D:.17
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim017/L320_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim017/L320_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim017/L320_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim017
+
+---------------Dim018---------------
+D:.18
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim018/L320_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim018/L320_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim018/L320_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim018
+
+---------------Dim019---------------
+D:.19
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim019/L320_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim019/L320_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim019/L320_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim019
+
+---------------Dim020---------------
+D:.20
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim020/L320_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim020/L320_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim020/L320_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim020
+
+ooooooooooL_L=384_oooooooooo
+xxxxxxxxxxxxxxx_Jdis050_xxxxxxxxxxxxxxx
+J:.50
+---------------Dim010---------------
+D:.10
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim010/L384_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim010/L384_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim010/L384_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim010
+
+---------------Dim011---------------
+D:.11
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim011/L384_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim011/L384_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim011/L384_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim011
+
+---------------Dim012---------------
+D:.12
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim012/L384_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim012/L384_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim012/L384_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim012
+
+---------------Dim013---------------
+D:.13
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim013/L384_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim013/L384_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim013/L384_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim013
+
+---------------Dim014---------------
+D:.14
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim014/L384_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim014/L384_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim014/L384_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim014
+
+---------------Dim015---------------
+D:.15
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim015/L384_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim015/L384_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim015/L384_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim015
+
+---------------Dim016---------------
+D:.16
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim016/L384_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim016/L384_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim016/L384_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim016
+
+---------------Dim017---------------
+D:.17
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim017/L384_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim017/L384_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim017/L384_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim017
+
+---------------Dim018---------------
+D:.18
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim018/L384_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim018/L384_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim018/L384_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim018
+
+---------------Dim019---------------
+D:.19
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim019/L384_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim019/L384_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim019/L384_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim019
+
+---------------Dim020---------------
+D:.20
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim020/L384_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim020/L384_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim020/L384_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim020
+
+ooooooooooL_L=448_oooooooooo
+xxxxxxxxxxxxxxx_Jdis050_xxxxxxxxxxxxxxx
+J:.50
+---------------Dim010---------------
+D:.10
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim010/L448_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim010/L448_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim010/L448_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim010
+
+---------------Dim011---------------
+D:.11
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim011/L448_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim011/L448_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim011/L448_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim011
+
+---------------Dim012---------------
+D:.12
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim012/L448_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim012/L448_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim012/L448_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim012
+
+---------------Dim013---------------
+D:.13
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim013/L448_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim013/L448_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim013/L448_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim013
+
+---------------Dim014---------------
+D:.14
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim014/L448_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim014/L448_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim014/L448_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim014
+
+---------------Dim015---------------
+D:.15
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim015/L448_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim015/L448_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim015/L448_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim015
+
+---------------Dim016---------------
+D:.16
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim016/L448_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim016/L448_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim016/L448_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim016
+
+---------------Dim017---------------
+D:.17
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim017/L448_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim017/L448_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim017/L448_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim017
+
+---------------Dim018---------------
+D:.18
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim018/L448_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim018/L448_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim018/L448_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim018
+
+---------------Dim019---------------
+D:.19
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim019/L448_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim019/L448_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim019/L448_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim019
+
+---------------Dim020---------------
+D:.20
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim020/L448_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim020/L448_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim020/L448_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim020
+
+ooooooooooL_L=512_oooooooooo
+xxxxxxxxxxxxxxx_Jdis050_xxxxxxxxxxxxxxx
+J:.50
+---------------Dim010---------------
+D:.10
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim010/L512_P10_m40_2000/ZL.csv
+
+seed=2000 is found
+
+./ZL/Zsub.sh /home/aronton/tSDRG_random/Sorting_data/Spin15/record/ZL/B40/Jdis050/Dim010/L512/ZL_spin15_L512_Jdis050_Dim010_seed1=1_seed2=2000.sh
+
+Submitted batch job 38165
+sbatch /home/aronton/tSDRG_random/Sorting_data/Spin15/record/ZL/B40/Jdis050/Dim010/L512/ZL_spin15_L512_Jdis050_Dim010_seed1=1_seed2=2000.sh 15 PBC 10 40 512 Jdis050 Dim010 1 2000
+
+---------------Dim011---------------
+D:.11
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim011/L512_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim011/L512_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim011/L512_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim011
+
+---------------Dim012---------------
+D:.12
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim012/L512_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim012/L512_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim012/L512_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim012
+
+---------------Dim013---------------
+D:.13
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim013/L512_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim013/L512_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim013/L512_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim013
+
+---------------Dim014---------------
+D:.14
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim014/L512_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim014/L512_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim014/L512_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim014
+
+---------------Dim015---------------
+D:.15
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim015/L512_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim015/L512_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim015/L512_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim015
+
+---------------Dim016---------------
+D:.16
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim016/L512_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim016/L512_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim016/L512_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim016
+
+---------------Dim017---------------
+D:.17
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim017/L512_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim017/L512_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim017/L512_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim017
+
+---------------Dim018---------------
+D:.18
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim018/L512_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim018/L512_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim018/L512_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim018
+
+---------------Dim019---------------
+D:.19
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim019/L512_P10_m40_2000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim019/L512_P10_m40_1000/ZL.csv
+
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim019/L512_P10_m40_0/ZL.csv
+
+No such data, seed_found 0 at J=Jdis050, D=Dim019
+
+---------------Dim020---------------
+D:.20
+/home/aronton/tSDRG_random/tSDRG/Main_15/data_random/PBC/Jdis050/Dim020/L512_P10_m40_2000/ZL.csv
+
+seed=2000 is found
+
+./ZL/Zsub.sh /home/aronton/tSDRG_random/Sorting_data/Spin15/record/ZL/B40/Jdis050/Dim020/L512/ZL_spin15_L512_Jdis050_Dim020_seed1=1_seed2=2000.sh
+
+Submitted batch job 38166
+sbatch /home/aronton/tSDRG_random/Sorting_data/Spin15/record/ZL/B40/Jdis050/Dim020/L512/ZL_spin15_L512_Jdis050_Dim020_seed1=1_seed2=2000.sh 15 PBC 10 40 512 Jdis050 Dim020 1 2000
+
+\n\nPartition: 1 Number of core: 1 Spin:15 ;L: 64 ~ 512 ( 64 ) ;J: .50 ~ .50 ( 0 ) ;D: .10 ~ .20 ( .01 ) ,seed1: 1 ,seed2: 2000 Orderparameter: ZL;BC=PBC
+
+done.
+Mon Sep 25 13:21:59 CST 2023
