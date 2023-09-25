@@ -1,0 +1,1 @@
+scp -r liusf@scopion.phys.nthu.edu.tw:/home/liusf/tSDRG/2_MainDimZL/D-ZL.sh /home/aronton/tSDRG_project/tSDRG

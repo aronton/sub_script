@@ -1,0 +1,431 @@
+Wed Jul  5 23:35:08 CST 2023
+Spin         ==> 15
+chi        ==> 10
+bonDim        ==> 40
+L1        ==> 64
+L2        ==> 128
+space_L        ==> 64
+J1        ==> 1.3
+J2        ==> 1.6
+space_J        ==> 0.1
+D1        ==> 0.3
+D2        ==> 0.3
+space_D        ==> 0
+seed1        ==> 1
+seed2        ==> 2000
+deltaSeed        ==> 100
+BC        ==> PBC
+Ncore        ==> 1
+checkOrNot        ==> 1
+Spin=15
+chi=10
+bonDim=40
+L1=64
+L2=128
+space_L=64
+J1=1.300
+J2=1.600
+space_J=.100
+D1=.300
+D2=.300
+space_D=0
+s1=1
+s2=2000
+sInterval=100
+BC=PBC
+Ncore=1
+2023_07_05/
+/home/aronton/tSDRG_random/tSDRG/Main_15/rm_submit/
+mkdir/home/aronton/tSDRG_random/tSDRG/Main_15/rm_submit/2023_07_05/
+ooooooooooL_L=64_oooooooooo
+xxxxxxxxxxxxxxx_Jdis130_xxxxxxxxxxxxxxx
+---------------Dim030---------------
+numOfinterval=20
+spin15_L64_Jdis130_Dim030_B40_BC=PBC_Ncore=1_seed1=1_seed2=100_random
+spin15_L64_Jdis130_Dim030_B40_BC=PBC_Ncore=1_seed1=101_seed2=200_random
+spin15_L64_Jdis130_Dim030_B40_BC=PBC_Ncore=1_seed1=201_seed2=300_random
+spin15_L64_Jdis130_Dim030_B40_BC=PBC_Ncore=1_seed1=301_seed2=400_random
+spin15_L64_Jdis130_Dim030_B40_BC=PBC_Ncore=1_seed1=401_seed2=500_random
+spin15_L64_Jdis130_Dim030_B40_BC=PBC_Ncore=1_seed1=501_seed2=600_random
+spin15_L64_Jdis130_Dim030_B40_BC=PBC_Ncore=1_seed1=601_seed2=700_random
+spin15_L64_Jdis130_Dim030_B40_BC=PBC_Ncore=1_seed1=701_seed2=800_random
+spin15_L64_Jdis130_Dim030_B40_BC=PBC_Ncore=1_seed1=801_seed2=900_random
+spin15_L64_Jdis130_Dim030_B40_BC=PBC_Ncore=1_seed1=901_seed2=1000_random
+spin15_L64_Jdis130_Dim030_B40_BC=PBC_Ncore=1_seed1=1001_seed2=1100_random
+spin15_L64_Jdis130_Dim030_B40_BC=PBC_Ncore=1_seed1=1101_seed2=1200_random
+spin15_L64_Jdis130_Dim030_B40_BC=PBC_Ncore=1_seed1=1201_seed2=1300_random
+spin15_L64_Jdis130_Dim030_B40_BC=PBC_Ncore=1_seed1=1301_seed2=1400_random
+spin15_L64_Jdis130_Dim030_B40_BC=PBC_Ncore=1_seed1=1401_seed2=1500_random
+spin15_L64_Jdis130_Dim030_B40_BC=PBC_Ncore=1_seed1=1501_seed2=1600_random
+spin15_L64_Jdis130_Dim030_B40_BC=PBC_Ncore=1_seed1=1601_seed2=1700_random
+spin15_L64_Jdis130_Dim030_B40_BC=PBC_Ncore=1_seed1=1701_seed2=1800_random
+spin15_L64_Jdis130_Dim030_B40_BC=PBC_Ncore=1_seed1=1801_seed2=1900_random
+spin15_L64_Jdis130_Dim030_B40_BC=PBC_Ncore=1_seed1=1901_seed2=2000_random
+xxxxxxxxxxxxxxx_Jdis140_xxxxxxxxxxxxxxx
+---------------Dim030---------------
+numOfinterval=20
+spin15_L64_Jdis140_Dim030_B40_BC=PBC_Ncore=1_seed1=1_seed2=100_random
+spin15_L64_Jdis140_Dim030_B40_BC=PBC_Ncore=1_seed1=101_seed2=200_random
+spin15_L64_Jdis140_Dim030_B40_BC=PBC_Ncore=1_seed1=201_seed2=300_random
+spin15_L64_Jdis140_Dim030_B40_BC=PBC_Ncore=1_seed1=301_seed2=400_random
+spin15_L64_Jdis140_Dim030_B40_BC=PBC_Ncore=1_seed1=401_seed2=500_random
+spin15_L64_Jdis140_Dim030_B40_BC=PBC_Ncore=1_seed1=501_seed2=600_random
+spin15_L64_Jdis140_Dim030_B40_BC=PBC_Ncore=1_seed1=601_seed2=700_random
+spin15_L64_Jdis140_Dim030_B40_BC=PBC_Ncore=1_seed1=701_seed2=800_random
+spin15_L64_Jdis140_Dim030_B40_BC=PBC_Ncore=1_seed1=801_seed2=900_random
+spin15_L64_Jdis140_Dim030_B40_BC=PBC_Ncore=1_seed1=901_seed2=1000_random
+spin15_L64_Jdis140_Dim030_B40_BC=PBC_Ncore=1_seed1=1001_seed2=1100_random
+spin15_L64_Jdis140_Dim030_B40_BC=PBC_Ncore=1_seed1=1101_seed2=1200_random
+spin15_L64_Jdis140_Dim030_B40_BC=PBC_Ncore=1_seed1=1201_seed2=1300_random
+spin15_L64_Jdis140_Dim030_B40_BC=PBC_Ncore=1_seed1=1301_seed2=1400_random
+spin15_L64_Jdis140_Dim030_B40_BC=PBC_Ncore=1_seed1=1401_seed2=1500_random
+spin15_L64_Jdis140_Dim030_B40_BC=PBC_Ncore=1_seed1=1501_seed2=1600_random
+spin15_L64_Jdis140_Dim030_B40_BC=PBC_Ncore=1_seed1=1601_seed2=1700_random
+spin15_L64_Jdis140_Dim030_B40_BC=PBC_Ncore=1_seed1=1701_seed2=1800_random
+spin15_L64_Jdis140_Dim030_B40_BC=PBC_Ncore=1_seed1=1801_seed2=1900_random
+spin15_L64_Jdis140_Dim030_B40_BC=PBC_Ncore=1_seed1=1901_seed2=2000_random
+xxxxxxxxxxxxxxx_Jdis150_xxxxxxxxxxxxxxx
+---------------Dim030---------------
+numOfinterval=20
+spin15_L64_Jdis150_Dim030_B40_BC=PBC_Ncore=1_seed1=1_seed2=100_random
+spin15_L64_Jdis150_Dim030_B40_BC=PBC_Ncore=1_seed1=101_seed2=200_random
+spin15_L64_Jdis150_Dim030_B40_BC=PBC_Ncore=1_seed1=201_seed2=300_random
+spin15_L64_Jdis150_Dim030_B40_BC=PBC_Ncore=1_seed1=301_seed2=400_random
+spin15_L64_Jdis150_Dim030_B40_BC=PBC_Ncore=1_seed1=401_seed2=500_random
+spin15_L64_Jdis150_Dim030_B40_BC=PBC_Ncore=1_seed1=501_seed2=600_random
+spin15_L64_Jdis150_Dim030_B40_BC=PBC_Ncore=1_seed1=601_seed2=700_random
+spin15_L64_Jdis150_Dim030_B40_BC=PBC_Ncore=1_seed1=701_seed2=800_random
+spin15_L64_Jdis150_Dim030_B40_BC=PBC_Ncore=1_seed1=801_seed2=900_random
+spin15_L64_Jdis150_Dim030_B40_BC=PBC_Ncore=1_seed1=901_seed2=1000_random
+spin15_L64_Jdis150_Dim030_B40_BC=PBC_Ncore=1_seed1=1001_seed2=1100_random
+spin15_L64_Jdis150_Dim030_B40_BC=PBC_Ncore=1_seed1=1101_seed2=1200_random
+spin15_L64_Jdis150_Dim030_B40_BC=PBC_Ncore=1_seed1=1201_seed2=1300_random
+spin15_L64_Jdis150_Dim030_B40_BC=PBC_Ncore=1_seed1=1301_seed2=1400_random
+spin15_L64_Jdis150_Dim030_B40_BC=PBC_Ncore=1_seed1=1401_seed2=1500_random
+spin15_L64_Jdis150_Dim030_B40_BC=PBC_Ncore=1_seed1=1501_seed2=1600_random
+spin15_L64_Jdis150_Dim030_B40_BC=PBC_Ncore=1_seed1=1601_seed2=1700_random
+spin15_L64_Jdis150_Dim030_B40_BC=PBC_Ncore=1_seed1=1701_seed2=1800_random
+spin15_L64_Jdis150_Dim030_B40_BC=PBC_Ncore=1_seed1=1801_seed2=1900_random
+spin15_L64_Jdis150_Dim030_B40_BC=PBC_Ncore=1_seed1=1901_seed2=2000_random
+xxxxxxxxxxxxxxx_Jdis160_xxxxxxxxxxxxxxx
+---------------Dim030---------------
+numOfinterval=20
+spin15_L64_Jdis160_Dim030_B40_BC=PBC_Ncore=1_seed1=1_seed2=100_random
+spin15_L64_Jdis160_Dim030_B40_BC=PBC_Ncore=1_seed1=101_seed2=200_random
+spin15_L64_Jdis160_Dim030_B40_BC=PBC_Ncore=1_seed1=201_seed2=300_random
+spin15_L64_Jdis160_Dim030_B40_BC=PBC_Ncore=1_seed1=301_seed2=400_random
+spin15_L64_Jdis160_Dim030_B40_BC=PBC_Ncore=1_seed1=401_seed2=500_random
+spin15_L64_Jdis160_Dim030_B40_BC=PBC_Ncore=1_seed1=501_seed2=600_random
+spin15_L64_Jdis160_Dim030_B40_BC=PBC_Ncore=1_seed1=601_seed2=700_random
+spin15_L64_Jdis160_Dim030_B40_BC=PBC_Ncore=1_seed1=701_seed2=800_random
+spin15_L64_Jdis160_Dim030_B40_BC=PBC_Ncore=1_seed1=801_seed2=900_random
+spin15_L64_Jdis160_Dim030_B40_BC=PBC_Ncore=1_seed1=901_seed2=1000_random
+spin15_L64_Jdis160_Dim030_B40_BC=PBC_Ncore=1_seed1=1001_seed2=1100_random
+spin15_L64_Jdis160_Dim030_B40_BC=PBC_Ncore=1_seed1=1101_seed2=1200_random
+spin15_L64_Jdis160_Dim030_B40_BC=PBC_Ncore=1_seed1=1201_seed2=1300_random
+spin15_L64_Jdis160_Dim030_B40_BC=PBC_Ncore=1_seed1=1301_seed2=1400_random
+spin15_L64_Jdis160_Dim030_B40_BC=PBC_Ncore=1_seed1=1401_seed2=1500_random
+spin15_L64_Jdis160_Dim030_B40_BC=PBC_Ncore=1_seed1=1501_seed2=1600_random
+spin15_L64_Jdis160_Dim030_B40_BC=PBC_Ncore=1_seed1=1601_seed2=1700_random
+spin15_L64_Jdis160_Dim030_B40_BC=PBC_Ncore=1_seed1=1701_seed2=1800_random
+spin15_L64_Jdis160_Dim030_B40_BC=PBC_Ncore=1_seed1=1801_seed2=1900_random
+spin15_L64_Jdis160_Dim030_B40_BC=PBC_Ncore=1_seed1=1901_seed2=2000_random
+ooooooooooL_L=128_oooooooooo
+xxxxxxxxxxxxxxx_Jdis130_xxxxxxxxxxxxxxx
+---------------Dim030---------------
+numOfinterval=20
+spin15_L128_Jdis130_Dim030_B40_BC=PBC_Ncore=1_seed1=1_seed2=100_random
+spin15_L128_Jdis130_Dim030_B40_BC=PBC_Ncore=1_seed1=101_seed2=200_random
+spin15_L128_Jdis130_Dim030_B40_BC=PBC_Ncore=1_seed1=201_seed2=300_random
+spin15_L128_Jdis130_Dim030_B40_BC=PBC_Ncore=1_seed1=301_seed2=400_random
+spin15_L128_Jdis130_Dim030_B40_BC=PBC_Ncore=1_seed1=401_seed2=500_random
+spin15_L128_Jdis130_Dim030_B40_BC=PBC_Ncore=1_seed1=501_seed2=600_random
+spin15_L128_Jdis130_Dim030_B40_BC=PBC_Ncore=1_seed1=601_seed2=700_random
+spin15_L128_Jdis130_Dim030_B40_BC=PBC_Ncore=1_seed1=701_seed2=800_random
+spin15_L128_Jdis130_Dim030_B40_BC=PBC_Ncore=1_seed1=801_seed2=900_random
+spin15_L128_Jdis130_Dim030_B40_BC=PBC_Ncore=1_seed1=901_seed2=1000_random
+spin15_L128_Jdis130_Dim030_B40_BC=PBC_Ncore=1_seed1=1001_seed2=1100_random
+spin15_L128_Jdis130_Dim030_B40_BC=PBC_Ncore=1_seed1=1101_seed2=1200_random
+spin15_L128_Jdis130_Dim030_B40_BC=PBC_Ncore=1_seed1=1201_seed2=1300_random
+spin15_L128_Jdis130_Dim030_B40_BC=PBC_Ncore=1_seed1=1301_seed2=1400_random
+spin15_L128_Jdis130_Dim030_B40_BC=PBC_Ncore=1_seed1=1401_seed2=1500_random
+spin15_L128_Jdis130_Dim030_B40_BC=PBC_Ncore=1_seed1=1501_seed2=1600_random
+spin15_L128_Jdis130_Dim030_B40_BC=PBC_Ncore=1_seed1=1601_seed2=1700_random
+spin15_L128_Jdis130_Dim030_B40_BC=PBC_Ncore=1_seed1=1701_seed2=1800_random
+spin15_L128_Jdis130_Dim030_B40_BC=PBC_Ncore=1_seed1=1801_seed2=1900_random
+spin15_L128_Jdis130_Dim030_B40_BC=PBC_Ncore=1_seed1=1901_seed2=2000_random
+xxxxxxxxxxxxxxx_Jdis140_xxxxxxxxxxxxxxx
+---------------Dim030---------------
+numOfinterval=20
+spin15_L128_Jdis140_Dim030_B40_BC=PBC_Ncore=1_seed1=1_seed2=100_random
+spin15_L128_Jdis140_Dim030_B40_BC=PBC_Ncore=1_seed1=101_seed2=200_random
+spin15_L128_Jdis140_Dim030_B40_BC=PBC_Ncore=1_seed1=201_seed2=300_random
+spin15_L128_Jdis140_Dim030_B40_BC=PBC_Ncore=1_seed1=301_seed2=400_random
+spin15_L128_Jdis140_Dim030_B40_BC=PBC_Ncore=1_seed1=401_seed2=500_random
+spin15_L128_Jdis140_Dim030_B40_BC=PBC_Ncore=1_seed1=501_seed2=600_random
+spin15_L128_Jdis140_Dim030_B40_BC=PBC_Ncore=1_seed1=601_seed2=700_random
+spin15_L128_Jdis140_Dim030_B40_BC=PBC_Ncore=1_seed1=701_seed2=800_random
+spin15_L128_Jdis140_Dim030_B40_BC=PBC_Ncore=1_seed1=801_seed2=900_random
+spin15_L128_Jdis140_Dim030_B40_BC=PBC_Ncore=1_seed1=901_seed2=1000_random
+spin15_L128_Jdis140_Dim030_B40_BC=PBC_Ncore=1_seed1=1001_seed2=1100_random
+spin15_L128_Jdis140_Dim030_B40_BC=PBC_Ncore=1_seed1=1101_seed2=1200_random
+spin15_L128_Jdis140_Dim030_B40_BC=PBC_Ncore=1_seed1=1201_seed2=1300_random
+spin15_L128_Jdis140_Dim030_B40_BC=PBC_Ncore=1_seed1=1301_seed2=1400_random
+spin15_L128_Jdis140_Dim030_B40_BC=PBC_Ncore=1_seed1=1401_seed2=1500_random
+spin15_L128_Jdis140_Dim030_B40_BC=PBC_Ncore=1_seed1=1501_seed2=1600_random
+spin15_L128_Jdis140_Dim030_B40_BC=PBC_Ncore=1_seed1=1601_seed2=1700_random
+spin15_L128_Jdis140_Dim030_B40_BC=PBC_Ncore=1_seed1=1701_seed2=1800_random
+spin15_L128_Jdis140_Dim030_B40_BC=PBC_Ncore=1_seed1=1801_seed2=1900_random
+spin15_L128_Jdis140_Dim030_B40_BC=PBC_Ncore=1_seed1=1901_seed2=2000_random
+xxxxxxxxxxxxxxx_Jdis150_xxxxxxxxxxxxxxx
+---------------Dim030---------------
+numOfinterval=20
+spin15_L128_Jdis150_Dim030_B40_BC=PBC_Ncore=1_seed1=1_seed2=100_random
+spin15_L128_Jdis150_Dim030_B40_BC=PBC_Ncore=1_seed1=101_seed2=200_random
+spin15_L128_Jdis150_Dim030_B40_BC=PBC_Ncore=1_seed1=201_seed2=300_random
+spin15_L128_Jdis150_Dim030_B40_BC=PBC_Ncore=1_seed1=301_seed2=400_random
+spin15_L128_Jdis150_Dim030_B40_BC=PBC_Ncore=1_seed1=401_seed2=500_random
+spin15_L128_Jdis150_Dim030_B40_BC=PBC_Ncore=1_seed1=501_seed2=600_random
+spin15_L128_Jdis150_Dim030_B40_BC=PBC_Ncore=1_seed1=601_seed2=700_random
+spin15_L128_Jdis150_Dim030_B40_BC=PBC_Ncore=1_seed1=701_seed2=800_random
+spin15_L128_Jdis150_Dim030_B40_BC=PBC_Ncore=1_seed1=801_seed2=900_random
+spin15_L128_Jdis150_Dim030_B40_BC=PBC_Ncore=1_seed1=901_seed2=1000_random
+spin15_L128_Jdis150_Dim030_B40_BC=PBC_Ncore=1_seed1=1001_seed2=1100_random
+spin15_L128_Jdis150_Dim030_B40_BC=PBC_Ncore=1_seed1=1101_seed2=1200_random
+spin15_L128_Jdis150_Dim030_B40_BC=PBC_Ncore=1_seed1=1201_seed2=1300_random
+spin15_L128_Jdis150_Dim030_B40_BC=PBC_Ncore=1_seed1=1301_seed2=1400_random
+spin15_L128_Jdis150_Dim030_B40_BC=PBC_Ncore=1_seed1=1401_seed2=1500_random
+spin15_L128_Jdis150_Dim030_B40_BC=PBC_Ncore=1_seed1=1501_seed2=1600_random
+spin15_L128_Jdis150_Dim030_B40_BC=PBC_Ncore=1_seed1=1601_seed2=1700_random
+spin15_L128_Jdis150_Dim030_B40_BC=PBC_Ncore=1_seed1=1701_seed2=1800_random
+spin15_L128_Jdis150_Dim030_B40_BC=PBC_Ncore=1_seed1=1801_seed2=1900_random
+spin15_L128_Jdis150_Dim030_B40_BC=PBC_Ncore=1_seed1=1901_seed2=2000_random
+xxxxxxxxxxxxxxx_Jdis160_xxxxxxxxxxxxxxx
+---------------Dim030---------------
+numOfinterval=20
+spin15_L128_Jdis160_Dim030_B40_BC=PBC_Ncore=1_seed1=1_seed2=100_random
+spin15_L128_Jdis160_Dim030_B40_BC=PBC_Ncore=1_seed1=101_seed2=200_random
+spin15_L128_Jdis160_Dim030_B40_BC=PBC_Ncore=1_seed1=201_seed2=300_random
+spin15_L128_Jdis160_Dim030_B40_BC=PBC_Ncore=1_seed1=301_seed2=400_random
+spin15_L128_Jdis160_Dim030_B40_BC=PBC_Ncore=1_seed1=401_seed2=500_random
+spin15_L128_Jdis160_Dim030_B40_BC=PBC_Ncore=1_seed1=501_seed2=600_random
+spin15_L128_Jdis160_Dim030_B40_BC=PBC_Ncore=1_seed1=601_seed2=700_random
+spin15_L128_Jdis160_Dim030_B40_BC=PBC_Ncore=1_seed1=701_seed2=800_random
+spin15_L128_Jdis160_Dim030_B40_BC=PBC_Ncore=1_seed1=801_seed2=900_random
+spin15_L128_Jdis160_Dim030_B40_BC=PBC_Ncore=1_seed1=901_seed2=1000_random
+spin15_L128_Jdis160_Dim030_B40_BC=PBC_Ncore=1_seed1=1001_seed2=1100_random
+spin15_L128_Jdis160_Dim030_B40_BC=PBC_Ncore=1_seed1=1101_seed2=1200_random
+spin15_L128_Jdis160_Dim030_B40_BC=PBC_Ncore=1_seed1=1201_seed2=1300_random
+spin15_L128_Jdis160_Dim030_B40_BC=PBC_Ncore=1_seed1=1301_seed2=1400_random
+spin15_L128_Jdis160_Dim030_B40_BC=PBC_Ncore=1_seed1=1401_seed2=1500_random
+spin15_L128_Jdis160_Dim030_B40_BC=PBC_Ncore=1_seed1=1501_seed2=1600_random
+spin15_L128_Jdis160_Dim030_B40_BC=PBC_Ncore=1_seed1=1601_seed2=1700_random
+spin15_L128_Jdis160_Dim030_B40_BC=PBC_Ncore=1_seed1=1701_seed2=1800_random
+spin15_L128_Jdis160_Dim030_B40_BC=PBC_Ncore=1_seed1=1801_seed2=1900_random
+spin15_L128_Jdis160_Dim030_B40_BC=PBC_Ncore=1_seed1=1901_seed2=2000_random
+Tue Aug 29 12:51:28 CST 2023
+Spin         ==> 15
+ProbDis        ==> 10
+bonDim        ==> 40
+L1        ==> 512
+L2        ==> 512
+space_L        ==> 0
+J1        ==> 0.5
+J2        ==> 0.5
+space_J        ==> 0
+D1        ==> 0.38
+D2        ==> 0.38
+space_D        ==> 0
+seed1        ==> 1
+seed2        ==> 2000
+deltaSeed        ==> 50
+BC        ==> PBC
+Ncore        ==> 1
+partition         ==> 1
+partition         ==> Y
+Spin=15
+ProbDis=10
+bonDim=40
+L1=512
+L2=512
+space_L=0
+J1=.500
+J2=.500
+space_J=0
+D1=.380
+D2=.380
+space_D=0
+s1=1
+s2=2000
+sInterval=50
+BC=PBC
+Ncore=1
+partition=1
+check_Or_Not=Y
+2023_08_29/
+/home/aronton/tSDRG_random/tSDRG/Main_15/rm_re_submit/
+mkdir/home/aronton/tSDRG_random/tSDRG/Main_15/rm_re_submit/2023_08_29/
+ooooooooooL_L=512_oooooooooo
+xxxxxxxxxxxxxxx_Jdis050_xxxxxxxxxxxxxxx
+---------------Dim038---------------
+numOfinterval=40
+spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=1_seed2=50_random
+sh spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=1_seed2=50_2023_08_29_H12_M51_S29 1 512 .500 .380 10 1 50 15 40 PBC 1 Y
+sh outputPath PBC/B40/L512/Jdis050/Dim038/spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=1_seed2=50_2023_08_29_H12_M51_S29
+Submitted batch job 14021
+spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=51_seed2=100_random
+sh spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=51_seed2=100_2023_08_29_H12_M51_S31 1 512 .500 .380 10 51 100 15 40 PBC 1 Y
+sh outputPath PBC/B40/L512/Jdis050/Dim038/spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=51_seed2=100_2023_08_29_H12_M51_S31
+Submitted batch job 14022
+spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=101_seed2=150_random
+sh spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=101_seed2=150_2023_08_29_H12_M51_S31 1 512 .500 .380 10 101 150 15 40 PBC 1 Y
+sh outputPath PBC/B40/L512/Jdis050/Dim038/spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=101_seed2=150_2023_08_29_H12_M51_S31
+Submitted batch job 14023
+spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=151_seed2=200_random
+sh spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=151_seed2=200_2023_08_29_H12_M51_S31 1 512 .500 .380 10 151 200 15 40 PBC 1 Y
+sh outputPath PBC/B40/L512/Jdis050/Dim038/spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=151_seed2=200_2023_08_29_H12_M51_S31
+Submitted batch job 14024
+spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=201_seed2=250_random
+sh spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=201_seed2=250_2023_08_29_H12_M51_S31 1 512 .500 .380 10 201 250 15 40 PBC 1 Y
+sh outputPath PBC/B40/L512/Jdis050/Dim038/spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=201_seed2=250_2023_08_29_H12_M51_S31
+Submitted batch job 14025
+spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=251_seed2=300_random
+sh spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=251_seed2=300_2023_08_29_H12_M51_S32 1 512 .500 .380 10 251 300 15 40 PBC 1 Y
+sh outputPath PBC/B40/L512/Jdis050/Dim038/spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=251_seed2=300_2023_08_29_H12_M51_S32
+Submitted batch job 14026
+spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=301_seed2=350_random
+sh spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=301_seed2=350_2023_08_29_H12_M51_S32 1 512 .500 .380 10 301 350 15 40 PBC 1 Y
+sh outputPath PBC/B40/L512/Jdis050/Dim038/spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=301_seed2=350_2023_08_29_H12_M51_S32
+Submitted batch job 14027
+spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=351_seed2=400_random
+sh spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=351_seed2=400_2023_08_29_H12_M51_S32 1 512 .500 .380 10 351 400 15 40 PBC 1 Y
+sh outputPath PBC/B40/L512/Jdis050/Dim038/spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=351_seed2=400_2023_08_29_H12_M51_S32
+Submitted batch job 14028
+spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=401_seed2=450_random
+sh spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=401_seed2=450_2023_08_29_H12_M51_S32 1 512 .500 .380 10 401 450 15 40 PBC 1 Y
+sh outputPath PBC/B40/L512/Jdis050/Dim038/spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=401_seed2=450_2023_08_29_H12_M51_S32
+Submitted batch job 14029
+spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=451_seed2=500_random
+sh spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=451_seed2=500_2023_08_29_H12_M51_S33 1 512 .500 .380 10 451 500 15 40 PBC 1 Y
+sh outputPath PBC/B40/L512/Jdis050/Dim038/spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=451_seed2=500_2023_08_29_H12_M51_S33
+Submitted batch job 14030
+spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=501_seed2=550_random
+sh spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=501_seed2=550_2023_08_29_H12_M51_S33 1 512 .500 .380 10 501 550 15 40 PBC 1 Y
+sh outputPath PBC/B40/L512/Jdis050/Dim038/spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=501_seed2=550_2023_08_29_H12_M51_S33
+Submitted batch job 14031
+spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=551_seed2=600_random
+sh spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=551_seed2=600_2023_08_29_H12_M51_S33 1 512 .500 .380 10 551 600 15 40 PBC 1 Y
+sh outputPath PBC/B40/L512/Jdis050/Dim038/spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=551_seed2=600_2023_08_29_H12_M51_S33
+Submitted batch job 14032
+spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=601_seed2=650_random
+sh spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=601_seed2=650_2023_08_29_H12_M51_S33 1 512 .500 .380 10 601 650 15 40 PBC 1 Y
+sh outputPath PBC/B40/L512/Jdis050/Dim038/spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=601_seed2=650_2023_08_29_H12_M51_S33
+Submitted batch job 14033
+spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=651_seed2=700_random
+sh spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=651_seed2=700_2023_08_29_H12_M51_S33 1 512 .500 .380 10 651 700 15 40 PBC 1 Y
+sh outputPath PBC/B40/L512/Jdis050/Dim038/spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=651_seed2=700_2023_08_29_H12_M51_S33
+Submitted batch job 14035
+spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=701_seed2=750_random
+sh spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=701_seed2=750_2023_08_29_H12_M51_S33 1 512 .500 .380 10 701 750 15 40 PBC 1 Y
+sh outputPath PBC/B40/L512/Jdis050/Dim038/spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=701_seed2=750_2023_08_29_H12_M51_S33
+Submitted batch job 14036
+spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=751_seed2=800_random
+sh spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=751_seed2=800_2023_08_29_H12_M51_S34 1 512 .500 .380 10 751 800 15 40 PBC 1 Y
+sh outputPath PBC/B40/L512/Jdis050/Dim038/spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=751_seed2=800_2023_08_29_H12_M51_S34
+Submitted batch job 14037
+spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=801_seed2=850_random
+sh spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=801_seed2=850_2023_08_29_H12_M51_S34 1 512 .500 .380 10 801 850 15 40 PBC 1 Y
+sh outputPath PBC/B40/L512/Jdis050/Dim038/spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=801_seed2=850_2023_08_29_H12_M51_S34
+Submitted batch job 14038
+spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=851_seed2=900_random
+sh spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=851_seed2=900_2023_08_29_H12_M51_S34 1 512 .500 .380 10 851 900 15 40 PBC 1 Y
+sh outputPath PBC/B40/L512/Jdis050/Dim038/spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=851_seed2=900_2023_08_29_H12_M51_S34
+Submitted batch job 14039
+spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=901_seed2=950_random
+sh spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=901_seed2=950_2023_08_29_H12_M51_S34 1 512 .500 .380 10 901 950 15 40 PBC 1 Y
+sh outputPath PBC/B40/L512/Jdis050/Dim038/spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=901_seed2=950_2023_08_29_H12_M51_S34
+Submitted batch job 14040
+spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=951_seed2=1000_random
+sh spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=951_seed2=1000_2023_08_29_H12_M51_S35 1 512 .500 .380 10 951 1000 15 40 PBC 1 Y
+sh outputPath PBC/B40/L512/Jdis050/Dim038/spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=951_seed2=1000_2023_08_29_H12_M51_S35
+Submitted batch job 14041
+spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=1001_seed2=1050_random
+sh spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=1001_seed2=1050_2023_08_29_H12_M51_S35 1 512 .500 .380 10 1001 1050 15 40 PBC 1 Y
+sh outputPath PBC/B40/L512/Jdis050/Dim038/spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=1001_seed2=1050_2023_08_29_H12_M51_S35
+Submitted batch job 14042
+spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=1051_seed2=1100_random
+sh spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=1051_seed2=1100_2023_08_29_H12_M51_S35 1 512 .500 .380 10 1051 1100 15 40 PBC 1 Y
+sh outputPath PBC/B40/L512/Jdis050/Dim038/spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=1051_seed2=1100_2023_08_29_H12_M51_S35
+Submitted batch job 14043
+spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=1101_seed2=1150_random
+sh spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=1101_seed2=1150_2023_08_29_H12_M51_S35 1 512 .500 .380 10 1101 1150 15 40 PBC 1 Y
+sh outputPath PBC/B40/L512/Jdis050/Dim038/spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=1101_seed2=1150_2023_08_29_H12_M51_S35
+Submitted batch job 14044
+spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=1151_seed2=1200_random
+sh spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=1151_seed2=1200_2023_08_29_H12_M51_S35 1 512 .500 .380 10 1151 1200 15 40 PBC 1 Y
+sh outputPath PBC/B40/L512/Jdis050/Dim038/spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=1151_seed2=1200_2023_08_29_H12_M51_S35
+Submitted batch job 14046
+spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=1201_seed2=1250_random
+sh spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=1201_seed2=1250_2023_08_29_H12_M51_S36 1 512 .500 .380 10 1201 1250 15 40 PBC 1 Y
+sh outputPath PBC/B40/L512/Jdis050/Dim038/spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=1201_seed2=1250_2023_08_29_H12_M51_S36
+Submitted batch job 14047
+spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=1251_seed2=1300_random
+sh spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=1251_seed2=1300_2023_08_29_H12_M51_S36 1 512 .500 .380 10 1251 1300 15 40 PBC 1 Y
+sh outputPath PBC/B40/L512/Jdis050/Dim038/spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=1251_seed2=1300_2023_08_29_H12_M51_S36
+Submitted batch job 14048
+spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=1301_seed2=1350_random
+sh spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=1301_seed2=1350_2023_08_29_H12_M51_S36 1 512 .500 .380 10 1301 1350 15 40 PBC 1 Y
+sh outputPath PBC/B40/L512/Jdis050/Dim038/spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=1301_seed2=1350_2023_08_29_H12_M51_S36
+Submitted batch job 14049
+spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=1351_seed2=1400_random
+sh spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=1351_seed2=1400_2023_08_29_H12_M51_S37 1 512 .500 .380 10 1351 1400 15 40 PBC 1 Y
+sh outputPath PBC/B40/L512/Jdis050/Dim038/spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=1351_seed2=1400_2023_08_29_H12_M51_S37
+Submitted batch job 14050
+spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=1401_seed2=1450_random
+sh spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=1401_seed2=1450_2023_08_29_H12_M51_S37 1 512 .500 .380 10 1401 1450 15 40 PBC 1 Y
+sh outputPath PBC/B40/L512/Jdis050/Dim038/spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=1401_seed2=1450_2023_08_29_H12_M51_S37
+Submitted batch job 14051
+spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=1451_seed2=1500_random
+sh spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=1451_seed2=1500_2023_08_29_H12_M51_S37 1 512 .500 .380 10 1451 1500 15 40 PBC 1 Y
+sh outputPath PBC/B40/L512/Jdis050/Dim038/spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=1451_seed2=1500_2023_08_29_H12_M51_S37
+Submitted batch job 14053
+spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=1501_seed2=1550_random
+sh spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=1501_seed2=1550_2023_08_29_H12_M51_S38 1 512 .500 .380 10 1501 1550 15 40 PBC 1 Y
+sh outputPath PBC/B40/L512/Jdis050/Dim038/spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=1501_seed2=1550_2023_08_29_H12_M51_S38
+Submitted batch job 14054
+spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=1551_seed2=1600_random
+sh spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=1551_seed2=1600_2023_08_29_H12_M51_S38 1 512 .500 .380 10 1551 1600 15 40 PBC 1 Y
+sh outputPath PBC/B40/L512/Jdis050/Dim038/spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=1551_seed2=1600_2023_08_29_H12_M51_S38
+Submitted batch job 14055
+spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=1601_seed2=1650_random
+sh spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=1601_seed2=1650_2023_08_29_H12_M51_S38 1 512 .500 .380 10 1601 1650 15 40 PBC 1 Y
+sh outputPath PBC/B40/L512/Jdis050/Dim038/spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=1601_seed2=1650_2023_08_29_H12_M51_S38
+Submitted batch job 14057
+spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=1651_seed2=1700_random
+sh spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=1651_seed2=1700_2023_08_29_H12_M51_S38 1 512 .500 .380 10 1651 1700 15 40 PBC 1 Y
+sh outputPath PBC/B40/L512/Jdis050/Dim038/spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=1651_seed2=1700_2023_08_29_H12_M51_S38
+Submitted batch job 14058
+spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=1701_seed2=1750_random
+sh spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=1701_seed2=1750_2023_08_29_H12_M51_S39 1 512 .500 .380 10 1701 1750 15 40 PBC 1 Y
+sh outputPath PBC/B40/L512/Jdis050/Dim038/spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=1701_seed2=1750_2023_08_29_H12_M51_S39
+Submitted batch job 14060
+spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=1751_seed2=1800_random
+sh spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=1751_seed2=1800_2023_08_29_H12_M51_S39 1 512 .500 .380 10 1751 1800 15 40 PBC 1 Y
+sh outputPath PBC/B40/L512/Jdis050/Dim038/spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=1751_seed2=1800_2023_08_29_H12_M51_S39
+Submitted batch job 14061
+spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=1801_seed2=1850_random
+sh spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=1801_seed2=1850_2023_08_29_H12_M51_S39 1 512 .500 .380 10 1801 1850 15 40 PBC 1 Y
+sh outputPath PBC/B40/L512/Jdis050/Dim038/spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=1801_seed2=1850_2023_08_29_H12_M51_S39
+Submitted batch job 14062
+spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=1851_seed2=1900_random
+sh spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=1851_seed2=1900_2023_08_29_H12_M51_S40 1 512 .500 .380 10 1851 1900 15 40 PBC 1 Y
+sh outputPath PBC/B40/L512/Jdis050/Dim038/spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=1851_seed2=1900_2023_08_29_H12_M51_S40
+Submitted batch job 14063
+spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=1901_seed2=1950_random
+sh spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=1901_seed2=1950_2023_08_29_H12_M51_S40 1 512 .500 .380 10 1901 1950 15 40 PBC 1 Y
+sh outputPath PBC/B40/L512/Jdis050/Dim038/spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=1901_seed2=1950_2023_08_29_H12_M51_S40
+Submitted batch job 14064
+spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=1951_seed2=2000_random
+sh spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=1951_seed2=2000_2023_08_29_H12_M51_S41 1 512 .500 .380 10 1951 2000 15 40 PBC 1 Y
+sh outputPath PBC/B40/L512/Jdis050/Dim038/spin15_L512_Jdis050_Dim038_P10_B40_BC=PBC_Ncore=1_seed1=1951_seed2=2000_2023_08_29_H12_M51_S41
+Submitted batch job 14066
