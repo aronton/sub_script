@@ -6,6 +6,7 @@
 
 date
 
+pwd
 #sbatch $scriptPath $Spin $BC $P $bonDim $L1 $L2 $Lspace_L $J1 $J2 $Lspace_J $D1 $D2 $Lspace_D $initial_Seed $checkRangeFinalSeed $deltaSeed
 
 # echo "partition         ==> ${1}"
@@ -39,8 +40,8 @@ Spin=${1}
 # Spin=$(echo "scale=0; (${1})/1" | bc)
 echo -e "Spin=$Spin"
 
-PBC=${2}
-echo -e "PBC=$BC"
+boundary=${2}
+echo -e "boundary=$boundary"
 
 P=${3}
 # P=$(echo "scale=0; (${3})/1" | bc)

@@ -39,8 +39,8 @@ Spin=${1}
 # Spin=$(echo "scale=0; (${1})/1" | bc)
 echo -e "Spin=$Spin"
 
-PBC=${2}
-echo -e "PBC=$BC"
+Boundary=${2}
+echo -e "Boundary=$BC"
 
 P=${3}
 # P=$(echo "scale=0; (${3})/1" | bc)
@@ -89,5 +89,5 @@ echo -e "sInterval=$sInterval"
 
 
 date
-python /home/aronton/tSDRG_random/tSDRG/Sub_script/check/checkReverse.py $Spin $PBC $P $bonDim $L1 $L2 $space_L ${8} ${9} ${10} ${11} ${12} ${13} $s1 $s2 $sInterval
+python ./checkReverse.py $Spin $PBC $P $bonDim $L1 $L2 $space_L ${8} ${9} ${10} ${11} ${12} ${13} $s1 $s2 $sInterval
 date

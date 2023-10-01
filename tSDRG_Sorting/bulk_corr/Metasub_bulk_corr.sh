@@ -86,6 +86,12 @@ echo -e "dx=$dx"
 # cpus=${21}
 # echo -e "cpus=$cpus"
 
+Jminus=${22}
+
+Dminus=${23}
+
+tSDRG_path=${24}
+
 sorting_Path="/home/aronton/tSDRG_random/Sorting_data/Spin${Spin}/submit_record/"
 
 now_date="$(date +'%Y_%m_%d')/"

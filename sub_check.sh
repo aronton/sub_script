@@ -34,7 +34,7 @@ then
     echo -e "$now_time"
     checkDirection="Reverse"
     directoryPath="${tSDRG_path}/tSDRG/check/Spin$Spin/script/$now_month/$now_day"
-    outputPath="${tSDRG_path}/tSDRG/check/Spin$Spin/output/$now_month/$now_day/Spin${Spin}_L${L1}_L${L2}_${space_L}_${J1}_${J2}_${space_J}_${D1}_${D2}_${space_D}_${initial_Seed}_${checkRangeFinalSeed}.out"
+    outputPath="${tSDRG_path}/tSDRG/check/Spin$Spin/output/$now_month/$now_day/Spin${Spin}_L${L1}_L${L2}_${space_L}_${J1}_${J2}_${space_J}_${D1}_${D2}_${space_D}_${BC}_${initial_Seed}_${checkRangeFinalSeed}.out"
     outputDir="${tSDRG_path}/tSDRG/check/Spin$Spin/output/$now_month/$now_day/"
     scriptPath="${tSDRG_path}/tSDRG/check/Spin$Spin/script/$now_month/$now_day/check$checkDirection"_"$now_time.sh"
     # checkDirection="Reverse"
@@ -60,11 +60,11 @@ then
         mkdir -p "$outputDir"
     fi
     # cp /home/aronton/tSDRG_random/tSDRG/Sub_script/check/check$checkDirection.sh scriptPath
-    cp ${tSDRG_path}/tSDRG/Sub_script/check/checkReverse.sh $scriptPath
+    cp ${tSDRG_path}/Sub_script/check/checkReverse.sh $scriptPath
     sed -e "s@scopion@scopion$partition@" -i $scriptPath
     sed -e "s@cpus-per-task@cpus-per-task=$Ncore@" -i $scriptPath
     sed -e "s@output@output=$outputPath@" -i $scriptPath
-    sed -e "s@BC@$BC@" -i $scriptPath
+    # sed -e "s@BC@BC=$BC@" -i $scriptPath
     sbatch $scriptPath $Spin $BC $P $bonDim $L1 $L2 $space_L $J1 $J2 $space_J $D1 $D2 $space_D $initial_Seed $checkRangeFinalSeed $deltaSeed
 
     

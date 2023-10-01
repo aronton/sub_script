@@ -146,7 +146,7 @@ seedArrayFrame = []
 for k in range(len(Ls)):
     seedArrayFrame.append( pd.DataFrame( final_seed_reverse[k,:,:], columns = Dim, index = Jdis, dtype = int))
 
-seedArrayxlsx = pd.ExcelWriter("/home/aronton/tSDRG_random/tSDRG/Sub_script/check/Spin" + str(spin) + "/checkXlsx/" + fileName + ".xlsx", engine='xlsxwriter')
+seedArrayxlsx = pd.ExcelWriter("/home/aronton/tSDRG_random/tSDRG/check/Spin" + str(spin) + "/checkXlsx/" + fileName + ".xlsx", engine='xlsxwriter')
 
 for k in range(len(Ls)):
     seedArrayFrame[k].to_excel(seedArrayxlsx, sheet_name= str(Ls[k]))
