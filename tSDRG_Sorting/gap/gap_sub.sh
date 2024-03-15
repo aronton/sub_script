@@ -1,7 +1,7 @@
 #!/bin/bash
 #SBATCH --partition=scopion
 #SBATCH --cpus-per-task
-#SBATCH --output=/home/aronton/tSDRG_project/Sorting_data/Spin/slurm/fileName.out
+#SBATCH --output=/home/aronton/tSDRG_random/Sorting_data/Spin/slurm/fileName.out
 
 # [ "$#" -lt 9 ] && echo "The number of parameter is less than 9.  Stop here." && exit 0
 echo "spin         ==> ${1}"

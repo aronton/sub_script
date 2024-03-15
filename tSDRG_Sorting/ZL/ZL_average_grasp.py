@@ -153,7 +153,9 @@ else:
         # my_file = '/home/aronton/tSDRG_project/tSDRG/Main_' + str(spin) + '/data/'+ BC +'/'+ jdis + '/'+ dim + '/L'+ str(L) +'_P'+ str(probDis) +'_m'+ str(chi) +'_'+ str(seed_num) 
 
         if(os.path.exists(my_csv)):
+            # print("my_csv",my_csv)
             inputFrame = pd.read_csv(my_csv)
+            # print("inputFrame",inputFrame)
             ZL = inputFrame.at[0, "ZL"]
             accumulation_frame = accumulation_frame.append({"ZL": ZL,"seed_num": int(seed_num)}, ignore_index=True)
         else:

@@ -42,7 +42,7 @@ print("final_Seed",final_Seed)
 
 print("\n---------------Direction Path----------------\n")
 
-accumulation_dir_path = '/home/aronton/tSDRG_project/Sorting_data/Spin' + str(spin) + '/metadata/' + 'gap_Accumulation/' + str(BC) + "/m" + str(chi) + "/" + jdis +'/' + dim +'/'
+accumulation_dir_path = '/home/aronton/tSDRG_random/Sorting_data/Spin' + str(spin) + '/metadata/' + 'gap_Accumulation/' + str(BC) + "/m" + str(chi) + "/" + jdis +'/' + dim +'/'
 
 if(os.path.exists(accumulation_dir_path) == False):
     os.makedirs(accumulation_dir_path)
@@ -147,9 +147,9 @@ print(accumulation_frame)
 
 for seed_num in range(initial_Seed, final_Seed + 1):
 
-    my_csv = '/home/aronton/tSDRG_project/tSDRG/Main_' + str(spin) + '/data/'+ BC +'/'+ jdis + '/'+ dim + '/L'+ str(L) +'_P'+ str(probDis) +'_m'+ str(chi) +'_'+ str(seed_num) + '/energy' + '.csv'
+    my_csv = '/home/aronton/tSDRG_random/tSDRG/Main_' + str(spin) + '/data_random/'+ BC +'/'+ jdis + '/'+ dim + '/L'+ str(L) +'_P'+ str(probDis) +'_m'+ str(chi) +'_'+ str(seed_num) + '/energy' + '.csv'
 
-    my_file = '/home/aronton/tSDRG_project/tSDRG/Main_' + str(spin) + '/data/'+ BC +'/'+ jdis + '/'+ dim + '/L'+ str(L) +'_P'+ str(probDis) +'_m'+ str(chi) +'_'+ str(seed_num) 
+    my_file = '/home/aronton/tSDRG_random/tSDRG/Main_' + str(spin) + '/dadata_randomta/'+ BC +'/'+ jdis + '/'+ dim + '/L'+ str(L) +'_P'+ str(probDis) +'_m'+ str(chi) +'_'+ str(seed_num) 
 
     if(os.path.exists(my_csv)):
         # try:

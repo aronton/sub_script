@@ -10,6 +10,7 @@ import multiprocessing as mp
 from scipy.optimize import curve_fit
 import sys
 
+tSDRG_path = "/home/aronton/tSDRG_random"
 
 # parameter input
 
@@ -70,7 +71,7 @@ print("\n---------------Direction Path----------------\n")
 # if(os.path.exists(direc4) == False):
 #     os.mkdir(direc4)
 
-accumulation_dir_path = '/home/aronton/tSDRG_random/Sorting_data/Spin' + str(spin) + '/metadata/' + 'corr_etoe_Accumulation/' + str(BC) + "/" + jdis +'/' + dim +'/'
+accumulation_dir_path = tSDRG_path + '/Sorting_data/Spin' + str(spin) + '/metadata/' + 'corr_etoe_Accumulation/' + str(BC) + "/" + jdis +'/' + dim +'/'
 
 if(os.path.exists(accumulation_dir_path) == False):
     print("accumulation_dir_path not exist : ",accumulation_dir_path)
@@ -117,7 +118,7 @@ accumulation_path = accumulation_dir_path +'/' +'corr_etoe_Accumulation_' + jdis
 
 # average_path = direc4_ave + BC + '_L' + str(L) + "_P" + str(probDis) + "_m" + str(chi) + "_ZL" + '.csv'
 
-average_dir_path = '/home/aronton/tSDRG_random/Sorting_data/Spin' + str(spin) + "/metadata/corr_etoe/" + BC  + "/" + jdis +"/" + dim + "/"
+average_dir_path = tSDRG_path + '/Sorting_data/Spin' + str(spin) + "/metadata/corr_etoe/" + BC  + "/" + jdis +"/" + dim + "/"
 
 if(os.path.exists(average_dir_path) == False):
     os.makedirs(average_dir_path)
@@ -181,9 +182,9 @@ if(initial_Seed != 1):
 
     for seed_num in range(initial_Seed, final_Seed + 1):
 
-        my_csv = '/home/aronton/tSDRG_random/tSDRG/Main_' + str(spin) + '/data_random/'+ BC +'/'+ jdis + '/'+ dim + '/L'+ str(L) +'_P'+ str(probDis) +'_m'+ str(chi) +'_'+ str(seed_num) + 'corr1_etoe' + '.csv'
+        my_csv = tSDRG_path + '/tSDRG/Main_' + str(spin) + '/data_random/'+ BC +'/'+ jdis + '/'+ dim + '/L'+ str(L) +'_P'+ str(probDis) +'_m'+ str(chi) +'_'+ str(seed_num) + 'corr1_etoe' + '.csv'
 
-        my_file = '/home/aronton/tSDRG_random/tSDRG/Main_' + str(spin) + '/data_random/'+ BC +'/'+ jdis + '/'+ dim + '/L'+ str(L) +'_P'+ str(probDis) +'_m'+ str(chi) +'_'+ str(seed_num) 
+        my_file = tSDRG_path + '/tSDRG/Main_' + str(spin) + '/data_random/'+ BC +'/'+ jdis + '/'+ dim + '/L'+ str(L) +'_P'+ str(probDis) +'_m'+ str(chi) +'_'+ str(seed_num) 
 
         if(os.path.exists(my_csv)):
             # try:
@@ -216,9 +217,9 @@ else:
     
     for seed_num in range(initial_Seed, final_Seed + 1):
 
-        my_csv = '/home/aronton/tSDRG_random/tSDRG/Main_' + str(spin) + '/data_random/'+ "OBC" +'/'+ jdis + '/'+ dim + '/L'+ str(L) +'_P'+ str(probDis) +'_m'+ str(chi) +'_'+ str(seed_num) + '/corr1_etoe' + '.csv'
+        my_csv = tSDRG_path + '/tSDRG/Main_' + str(spin) + '/data_random/'+ "OBC" +'/'+ jdis + '/'+ dim + '/L'+ str(L) +'_P'+ str(probDis) +'_m'+ str(chi) +'_'+ str(seed_num) + '/corr1_etoe' + '.csv'
 
-        my_file = '/home/aronton/tSDRG_random/tSDRG/Main_' + str(spin) + '/data_random/'+ "OBC" +'/'+ jdis + '/'+ dim + '/L'+ str(L) +'_P'+ str(probDis) +'_m'+ str(chi) +'_'+ str(seed_num) 
+        my_file = tSDRG_path + '/tSDRG/Main_' + str(spin) + '/data_random/'+ "OBC" +'/'+ jdis + '/'+ dim + '/L'+ str(L) +'_P'+ str(probDis) +'_m'+ str(chi) +'_'+ str(seed_num) 
 
         if(os.path.exists(my_csv)):
             # try:
